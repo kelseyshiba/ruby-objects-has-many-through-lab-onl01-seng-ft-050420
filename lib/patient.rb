@@ -16,4 +16,5 @@ class Patient
     Appointment.new(stuff)
   end
   
+  
 end
