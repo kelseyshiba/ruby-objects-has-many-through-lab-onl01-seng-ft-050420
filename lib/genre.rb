@@ -16,8 +16,9 @@ class Genre
     songs.select {|song| song.artist}
   end
 
-
-
+  def self.all
+    @@all
+  end
 
 
 
