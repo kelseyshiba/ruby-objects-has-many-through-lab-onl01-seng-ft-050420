@@ -16,5 +16,8 @@ class Patient
     Appointment.new(stuff)
   end
   
+  def appointments
+  
+  end 
   
 end
