@@ -1,3 +1,19 @@
 class Doctor 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 end
