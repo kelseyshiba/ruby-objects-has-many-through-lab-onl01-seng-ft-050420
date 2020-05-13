@@ -16,6 +16,9 @@ class Doctor
     Appointment.new(#stuff from here include self)
   end
 
+  def appointments
+  
+  end  
 
 
 
